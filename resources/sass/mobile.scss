@@ -1,0 +1,57 @@
+@media only screen and (max-width: 600px) {
+    button.btn.btn-basic.float-right.profile-save {
+        //margin-top: 5px;
+    }
+    .modal-container{
+        width: 340px !important;
+    }
+
+    .description {
+        margin-top: 25px;
+        padding-left: 7.5px;
+        width:auto !important;
+    }
+    .hero-content .description {
+        line-height: 19px !important;
+        float: left !important;
+    }
+    .delimeter svg {
+        width: 100% !important;
+        height: 100%;
+    }
+    form#filter_tours button {
+        margin: auto;
+        width: 100%;
+        margin-top: 17px !important;
+    }
+    .heading {
+        font-size: 41px !important;
+        line-height: 50px !important;
+    }
+    .hero-content .tagline {
+        font-size: 20px !important;
+    }
+    .hero-content {
+        padding-top: 55px !important;
+    }
+    .nav-tabs li.nav-item {
+        width: 100%;
+        text-align: center;
+        margin: auto !important;
+    }
+    ul.dropdown-menu.show {
+        position: absolute;
+        float: inherit;
+    }
+    .landing-logo {
+        height: 60px !important;
+        width: 200px !important;
+    }
+    li.nav-item {
+        margin-right: 0 !important;
+    }
+}
+
+button.navbar-toggler {
+    height: 58px;
+}
